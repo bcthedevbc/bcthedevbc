@@ -39,10 +39,8 @@
 ### 📊 GitHub Stats:
 
 <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/1.svg" alt="Custom SVG" width="467" height="195" />
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork&theme=radical" alt="namnguyenthanhwork" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=namnguyenthanhwork&show_icons=true&locale=en&layout=compact&theme=radical" alt="namnguyenthanhwork" /></p>
+<img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/3.svg" alt="Custom SVG" width="467" height="195" />
+<img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/2.svg" alt="Custom SVG" width="467" height="195" />
 
 ---
 
