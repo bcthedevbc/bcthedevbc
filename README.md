@@ -38,7 +38,7 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=namnguyenthanhwork&show_icons=true&locale=en&theme=radical" alt="namnguyenthanhwork" /></p>
+<img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/1.svg" alt="Custom SVG" width="467" height="195" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namnguyenthanhwork&theme=radical" alt="namnguyenthanhwork" /></p>
 
@@ -47,7 +47,8 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namnguyenthanhwork&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bcthedevbc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5" />
 </p>
 
