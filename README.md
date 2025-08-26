@@ -27,7 +27,9 @@
 * 🌱 I’m currently learning **React, Next.js**
 * 👨‍💻 All of my projects are available at [https://bac2765@gmail.com/](https://bac2765@gmail.com/)
 * 📫 How to reach me **[bac2765@gmail.com](mailto:bac2765.@gmail.com)**
-* ⚡ Fun fact **I like Bro code 😁** ---
+* ⚡ Fun fact **I like Bro code 😁**
+
+ ---
 
 ### 🌐 Connect with me: 
 
