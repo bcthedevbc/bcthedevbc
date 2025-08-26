@@ -22,27 +22,23 @@
   <img src="https://komarev.com/ghpvc/?username=namnguyenthanhwork&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+--- 
+* 🔭 I’m currently working on **Front-End Projects** 
+* 🌱 I’m currently learning **React, Next.js**
+* 👨‍💻 All of my projects are available at [https://bac2765@gmail.com/](https://bac2765@gmail.com/)
+* 📫 How to reach me **[bac2765@gmail.com](mailto:bac2765.@gmail.com)**
+* ⚡ Fun fact **I like Bro code 😁** ---
 
-### 🔭 About Me
-- 🌱 Currently learning **React, Next.js**
-- 👨‍💻 All projects at [Portfolio](https://bac2765@gmail.com/)  
-- 📫 Reach me: **[bac2765@gmail.com](mailto:bac2765@gmail.com)**  
-- ⚡ Fun fact: **I like Bro code 😁**
+### 🌐 Connect with me: 
 
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.facebook.com/ca.tre.bac.2025" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/bac_catre/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/b-c-dev-2a9b3237b/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
+<p align="left"> 
+<a href="https://www.facebook.com/ca.tre.bac.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a> <a href="https://www.instagram.com/bac_catre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/b-c-dev-2a9b3237b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> </p> 
 
 ---
 
 ### 🚀 Languages & Tools
 <p align="center"> 
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> </a>
