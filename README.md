@@ -49,10 +49,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/1.svg" width="467" height="195" />
-  <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/3.svg" width="467" height="195" />
-  <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/2.svg" width="467" height="195" />
+  <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/1.svg" width="380" height="160" />
+  <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/3.svg" width="380" height="160" />
+  <img src="https://raw.githubusercontent.com/bcthedevbc/assets/main/2.svg" width="380" height="160" />
 </p>
+
 
 ---
 
