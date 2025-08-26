@@ -46,7 +46,51 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bcthedevbc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=5" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"><br/>
+      <sub><b>Starstruck</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"><br/>
+      <sub><b>Pull Shark</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"><br/>
+      <sub><b>Pair Extraordinaire</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"><br/>
+      <sub><b>Quickdraw</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"><br/>
+      <sub><b>YOLO</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80"><br/>
+      <sub><b>Galaxy Brain</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80"><br/>
+      <sub><b>Heart On Sleeve</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80"><br/>
+      <sub><b>Public Sponsor</b></sub>
+    </td>
+      <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="80"><br/>
+      <sub><b>Open Sourcerer</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80"><br/>
+      <sub><b>Arctic Code Vault</b></sub>
+    </td>
+  </tr>
+</table>
+
 
