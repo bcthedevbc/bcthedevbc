@@ -46,51 +46,79 @@
 
 ### 🏆 GitHub Trophies
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"><br/>
-      <sub><b>Starstruck</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"><br/>
-      <sub><b>Pull Shark</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"><br/>
-      <sub><b>Pair Extraordinaire</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"><br/>
-      <sub><b>Quickdraw</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"><br/>
-      <sub><b>YOLO</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80"><br/>
-      <sub><b>Galaxy Brain</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80"><br/>
-      <sub><b>Heart On Sleeve</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80"><br/>
-      <sub><b>Public Sponsor</b></sub>
-    </td>
-      <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="80"><br/>
-      <sub><b>Open Sourcerer</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80"><br/>
-      <sub><b>Arctic Code Vault</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" />
+        <div>Starstruck</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" />
+        <div>Pull Shark</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" />
+        <div>Pair Extraordinaire</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" />
+        <div>Quickdraw</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" />
+        <div>YOLO</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" />
+        <div>Galaxy Brain</div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="80" alt="Heart On Sleeve" />
+        <div>Heart On Sleeve</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" alt="Public Sponsor" />
+        <div>Public Sponsor</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="80" alt="Mars 2020" />
+        <div>Mars 2020</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" alt="Arctic Code Vault" />
+        <div>Arctic Code Vault</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="80" alt="Open Sourcerer" />
+        <div>Open Sourcerer</div>
+      </td>
+      <td align="center" width="120">
+        <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-gold.png" width="80" alt="Starstruck (Gold)" />
+        <div>Starstruck (Gold)</div>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/issues.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/comments.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/pull-requests.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/repositories.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/reviews.png" width="120"></td>
+    </tr>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/contributed.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/collaborated.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/stars.png" width="120"></td>
+      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/followers.png" width="120"></td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
