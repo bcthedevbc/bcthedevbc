@@ -103,22 +103,4 @@
   </table>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/issues.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/comments.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/pull-requests.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/repositories.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/reviews.png" width="120"></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/contributed.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/collaborated.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/stars.png" width="120"></td>
-      <td><img src="https://raw.githubusercontent.com/drknzz/GitHub-Achievements/main/images/achievements/followers.png" width="120"></td>
-      <td></td>
-    </tr>
-  </table>
-</div>
 
